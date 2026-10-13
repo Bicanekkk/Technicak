@@ -26,3 +26,4 @@ public class Technicak {
             System.out.println("majitel"+majitel.getPrijmeni()+"-"+majitel.getRok_narozeni());
     }
 }
+
